@@ -13,4 +13,4 @@
 ### Categories
 > 📺 [Entertrainment](./data/entertrainment)
 > - 🍿 [Movies](./data/entertrainment/movies)
-> - 🎮 [Games](.data/entertrainment/games)
+> - 🎮 [Games](./data/entertrainment/games)
